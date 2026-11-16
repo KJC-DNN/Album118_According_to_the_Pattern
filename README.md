@@ -12,6 +12,7 @@ The Holy Tent and Solomon’s Temple—the earthly sanctuaries made so God could
 6. Glory Filled the House (Praise)
 7. A Copy and Shadow (Teaching – Hebrews 8:5)
 8. God Among His People (Praising)
+-(these are songs drawn from Scripture’s own sanctuary and creation accounts)
    
 # Study note: 
 Both sanctuaries follow the pattern given by God; both teach graded holiness and mediated access.
@@ -20,6 +21,6 @@ Both sanctuaries follow the pattern given by God; both teach graded holiness and
 Lord, You desire to dwell among Your people. Teach us the holiness Your sanctuaries displayed.
 
 # Published
-1. GitHub : 
-2. Archive : album-118-according-to-the-pattern-cover
-3. Zenodo : https://doi.org/10.5281/zenodo.24271640
+1. GitHub: https://github.com/KJC-DNN/Album118_According_to_the_Pattern/releases/tag/118.0.0
+2. Archive: album-118-according-to-the-pattern-cover
+3. Zenodo: https://doi.org/10.5281/zenodo.24271640
