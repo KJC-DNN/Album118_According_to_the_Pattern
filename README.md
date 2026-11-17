@@ -24,3 +24,9 @@ Lord, You desire to dwell among Your people. Teach us the holiness Your sanctuar
 1. GitHub: https://github.com/KJC-DNN/Album118_According_to_the_Pattern/releases/tag/118.0.0
 2. Archive: album-118-according-to-the-pattern-cover
 3. Zenodo: https://doi.org/10.5281/zenodo.24271640
+
+# Instrumental
+## Published
+1. GitHub: https://github.com/KJC-DNN/Albums118-120_Instrumentals_According_to_the_Pattern/releases/tag/118-120.0.0
+2. Archive: albums-118-120-instrumentals-according-to-the-pattern-cover
+3. Zenodo: https://doi.org/10.5281/zenodo.24297126
